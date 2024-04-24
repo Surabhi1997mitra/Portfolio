@@ -1,0 +1,15 @@
+/.pnp
+/build
+/coverage
+/node_modules
+/src/globals.json
+.DS_Store
+.env
+.pnp.js
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.vscode
+src/asset/Rzlogo.zip
+package-lock.json
+*.log
