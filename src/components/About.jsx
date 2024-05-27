@@ -37,7 +37,7 @@ const About = () => {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./Surabhi_passport_photo_.jpg"
+            src="./Surabhi_Profile_Photo.jpg"
             style={{ borderRadius: 200 }}
           />
         </div>
