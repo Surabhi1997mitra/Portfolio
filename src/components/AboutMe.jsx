@@ -13,17 +13,17 @@ const AboutMe = () => {
                     </h1>
                 </div>
                 <div className="aboutMeContent">
-                    <div className="aboutMeHeader">🔍 About Me:</div>
-                    <p>👨‍💻 Front-End Developer with 3 years of hands-on experience.</p>
-                    <p>🌐 Expertise in React.js, HTML, CSS, JavaScript, Tyepscreipt and responsive design.</p>
-                    <p>💡 Passionate about creating seamless user experiences and pixel-perfect designs.</p>
+                    <div className="aboutMeHeader text-gray-300">🔍 About Me:</div>
+                    <p className="text-gray-400">👨‍💻 Front-End Developer with 3 years of hands-on experience.</p>
+                    <p className="text-gray-400">🌐 Expertise in React.js, HTML, CSS, JavaScript, Tyepscreipt and responsive design.</p>
+                    <p className="text-gray-400">💡 Passionate about creating seamless user experiences and pixel-perfect designs.</p>
                 </div>
 
                 <div className="aboutMeContent">
-                    <div className="aboutMeHeader">🔎 What I'm Looking For:</div>
-                    <p>🔍 Exciting opportunities in Front-End Development.</p>
-                    <p>🚀 Roles that encourage creativity, innovation, and continuous learning.</p>
-                    <p>🌐 A company with a dynamic culture and a commitment to excellence.</p>
+                    <div className="aboutMeHeader text-gray-300">🔎 What I'm Looking For:</div>
+                    <p className="text-gray-400">🔍 Exciting opportunities in Front-End Development.</p>
+                    <p className="text-gray-400">🚀 Roles that encourage creativity, innovation, and continuous learning.</p>
+                    <p className="text-gray-400">🌐 A company with a dynamic culture and a commitment to excellence.</p>
                 </div>
             </div >
         </section >

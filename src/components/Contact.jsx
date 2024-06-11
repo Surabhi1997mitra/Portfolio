@@ -45,7 +45,7 @@ const Contact = () => {
                             <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                                 EMAIL
                             </h2>
-                            <a className="text-indigo-400 leading-relaxed">
+                            <a className="text-indigo-200 leading-relaxed">
                                 surabhi.mitra.official@gmail.com
                             </a>
                             <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
@@ -66,7 +66,7 @@ const Contact = () => {
                         Hire Me
                     </h2>
                     <div className="relative mb-4">
-                        <label htmlFor="name" className="leading-7 text-sm text-gray-400">
+                        <label htmlFor="name" className="leading-7 text-sm text-gray-200">
                             Name
                         </label>
                         <input
@@ -78,7 +78,7 @@ const Contact = () => {
                         />
                     </div>
                     <div className="relative mb-4">
-                        <label htmlFor="email" className="leading-7 text-sm text-gray-400">
+                        <label htmlFor="email" className="leading-7 text-sm text-gray-200">
                             Email
                         </label>
                         <input
@@ -93,7 +93,7 @@ const Contact = () => {
                     <div className="relative mb-4">
                         <label
                             htmlFor="message"
-                            className="leading-7 text-sm text-gray-400">
+                            className="leading-7 text-sm text-gray-200">
                             Message
                         </label>
                         <textarea
@@ -108,7 +108,7 @@ const Contact = () => {
                         className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
                         Submit
                     </button>
-                    <p>
+                    <p className="leading-7 text-sm text-gray-200">
                         or, feel free to drop me a message on Whatsapp on this number - (8637568054) 
                     </p>
                 </form>

@@ -4,7 +4,7 @@ import { educations } from "../data";
 
 const Education = () => {
     return (
-        <section id="testimonials">
+        <section id="education">
             <div className="container px-5 py-10 mx-auto text-center">
                 <AcademicCapIcon className="w-10 inline-block mb-4" />
                 <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-12">
@@ -19,13 +19,13 @@ const Education = () => {
                                         <span className="title-font font-medium text-white">
                                             {education.degreeName}
                                         </span>
-                                        <span className="text-gray-500 text-sm uppercase">
+                                        <span className="text-gray-300 text-sm ">
                                             {education.institute}
                                         </span>
-                                        <span className="text-gray-500 text-sm uppercase">
+                                        <span className="text-gray-300 text-sm ">
                                             {education.year}
                                         </span>
-                                        <span className="text-gray-500 text-sm">
+                                        <span className="text-gray-300 text-sm">
                                             {education.stream}
                                         </span>
                                         <span className="title-font font-medium text-white">

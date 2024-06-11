@@ -15,20 +15,20 @@ const About = () => {
             Hi, I'm Surabhi.
             <br className="hidden lg:inline-block" />I love to build amazing apps.
           </h1>
-          <p className="mb-8 leading-relaxed">
+          <p className="mb-8 leading-relaxed text-gray-300">
             🌟 I'm on the lookout for a new adventure in the world of Front-End Development! 🖥️✨
           </p>
 
           <div className="flex justify-center">
             <a
               href="#contact"
-              className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
+              className="inline-flex text-white shadow-lg shadow-cyan-500/50 bg-light-button border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
               Work With Me
             </a>
             <a
               href="#resume"
               onClick={downloadImage}
-              className="ml-4 inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
+              className="ml-4 inline-flex text-white shadow-lg shadow-cyan-500/50 bg-light-button border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
               Resume
             </a>
           </div>
