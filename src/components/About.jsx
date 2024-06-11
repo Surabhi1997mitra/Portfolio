@@ -4,7 +4,7 @@ import { saveAs } from 'file-saver'
 const About = () => {
 
   const downloadImage = () => {
-    saveAs('https://drive.google.com/file/d/1efM0AJaW6NCVcYs_9xdvhy0khiqF2_lA/view', 'Surabhi_Mitra.pdf') // Put your image URL here.
+    saveAs('https://drive.google.com/file/d/1eBO69c_wESggat2mhGhFN1tCXCyn7GtB/view', 'Surabhi_Mitra.pdf') // Put your image URL here.
   }
   
   return (
