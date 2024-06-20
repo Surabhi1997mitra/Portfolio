@@ -8,3 +8,14 @@
     font-size: 25px;
     font-weight: bold;
 }
+
+.experience {
+    display: flex;
+    flex-direction: row;
+}
+
+@media (max-width: 800px) {
+    .experience {
+      flex-direction: column;
+    }
+  }
