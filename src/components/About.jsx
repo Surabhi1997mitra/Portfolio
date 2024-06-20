@@ -23,7 +23,7 @@ const About = () => {
             <a
               href="#contact"
               className="md:w-1/2 inline-flex text-white shadow-lg shadow-cyan-500/50 bg-light-button border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
-              Work With Me
+              Connect
             </a>
             <a
               href="#resume"
