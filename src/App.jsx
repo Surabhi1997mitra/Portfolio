@@ -14,7 +14,7 @@ export default function App() {
     <main className="text-gray-400 font-serif bg-gradient-to-r from-background-theme-start to-background-theme-end body-font">
       <Navbar />
       <About />
-      {/* <Projects /> */}
+      <Projects />
       <AboutMe />
       <Skills />
       <Education />

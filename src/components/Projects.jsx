@@ -12,9 +12,7 @@ const Projects = () => {
                         Apps I've Built
                     </h1>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-                        facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-                        fuga dolore.
+                    Explore my collection of simple yet functional apps! Each project showcases my journey in learning and growing as a developer. Dive in to see what I've built and how I'm improving every day!
                     </p>
                 </div>
                 <div className="flex flex-wrap -m-4">
@@ -22,6 +20,7 @@ const Projects = () => {
                         <a
                             href={project.link}
                             key={project.image}
+                            target="_blank"
                             className="sm:w-1/2 w-100 p-4">
                             <div className="flex relative">
                                 <img

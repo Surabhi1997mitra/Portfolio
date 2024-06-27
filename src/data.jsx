@@ -1,36 +1,34 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    title: "Calculator App",
+    subtitle: "React.js, Typescript, mathjs",
+    description: "Calculator app using React.js, Typescript, mathjs. Mathemetical calculations and trigonometric functions can be used. Computations are done using evaluate from mathjs.",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://surabhi-calculator-app.netlify.app/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    title: "Todo List",
+    subtitle: "React.js, Typescript, MaterialUI",
+    description: "Todo List using React.js, Typescript, MaterialUI. Edit, save and delete functionalities have been used. MaterialUI icons have been used for visually engaging experience.",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://surabhi-todo-typescript.netlify.app/",
   },
-  {
-    title: "DevChat",
-    subtitle: "React and Firebase",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
-  },
+  // {
+  //   title: "DevChat",
+  //   subtitle: "React and Firebase",
+  //   description:
+  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+  //   image: "./project-3.gif",
+  //   link: "https://reactbootcamp.com",
+  // },
+  // {
+  //   title: "Epic Todo App",
+  //   subtitle: "React Hooks",
+  //   description:
+  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+  //   image: "./project-4.gif",
+  //   link: "https://reactbootcamp.com",
+  // },
 ];
 
 export const skills = [
