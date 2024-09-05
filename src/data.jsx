@@ -13,37 +13,26 @@ export const projects = [
     image: "./project-2.gif",
     link: "https://surabhi-todo-typescript.netlify.app/",
   },
-  // {
-  //   title: "DevChat",
-  //   subtitle: "React and Firebase",
-  //   description:
-  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-  //   image: "./project-3.gif",
-  //   link: "https://reactbootcamp.com",
-  // },
-  // {
-  //   title: "Epic Todo App",
-  //   subtitle: "React Hooks",
-  //   description:
-  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-  //   image: "./project-4.gif",
-  //   link: "https://reactbootcamp.com",
-  // },
+  {
+    title: "Country Explorer",
+    subtitle: "Typescript, Redux, Axios, Tailwind, MaterialUI",
+    description: "Country displaying application using Axios. Navigation, Search and UI using MaterialUI. Search Option provided to filter countries.",
+    image: "./project-3.gif",
+    link: "https://main--sm-country-explorer.netlify.app/",
+  },
 ];
 
 export const skills = [
   "React.js",
-  "Class/Functional Components",
-  "Redux",
-  "Redux Toolkit",
+  "Redux/Redux Toolkit",
   "Typescript",
+  "Next.js",
+  "React Native",
+  "Node",
+  "JavaScript",
   "Bootstrap",
   "Material UI",
-  "React Native",
-  "JavaScript",
-  "HTML",
-  "CSS",
-  "Node",
+  "HTML/CSS",
   "Github",
   "Fork"
 ];
